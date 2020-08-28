@@ -5,6 +5,10 @@ public class Test {
 	System.out.println("YiJunjie");
 System.out.println("YiJunjie");
 System.out.println("YiJunjie");
+System.out.println("YiJunjie");
+System.out.println("YiJunjie");
+System.out.println("YiJunjie");
+System.out.println("YiJunjie");
 
     }
 
